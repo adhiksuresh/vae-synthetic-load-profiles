@@ -1,0 +1,4 @@
+generator,daily_energy_mean_real,daily_energy_mean_gen,daily_energy_KS_stat,daily_energy_KS_p,peak_time_KS_stat,mean_profile_RMSE,std_profile_RMSE,correlation_matrix_MAE,MMD,negative_values_pct
+"Real (other households, reference)",17.082,17.36,0.035,0.001,0.024,0.0082,0.0202,0.0339,0.0045,0.0
+VAE,17.082,17.45,0.065,0.0,0.102,0.0114,0.0242,0.0787,0.0095,0.086
+Gaussian baseline,17.082,17.267,0.05,0.0,0.175,0.007,0.0163,0.0447,0.0047,0.898

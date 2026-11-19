@@ -1,0 +1,9 @@
+{
+  "gradient_check_max_relative_error": 1.4362616893702829e-08,
+  "selected_latent": 16,
+  "selected_s2": 0.05,
+  "epochs": 150,
+  "n_train": 18000,
+  "n_val": 6000,
+  "n_test": 6000
+}
